@@ -1,10 +1,10 @@
 ```javascript
 const tonce = {
     pronouns: "he" | "him",
-    website: "tonce.xo.je",
+    website: "tonce.de.cool",
     location: "aachen" | "germany",
     hobbies: {
-      all=["playing games", "listening to music", "malware development", "going out with friends"]
+      all=["playing games", "listening to music", "development", "going out with friends"]
     },
 };
 ```
